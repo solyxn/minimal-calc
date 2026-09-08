@@ -29,6 +29,7 @@ If you wish to compile the project yourself:
    ```cmd
    HTML2EXE.exe index.html
 <img width="325" height="493" alt="image" src="https://github.com/user-attachments/assets/3a915fb3-3ac3-4bd3-a0c0-00b91dda767f" />
+
 ## ☕ Support the Project
 If you like this ultra-lightweight calculator and want to help me get a new keyboard, you can support my work here!
 
