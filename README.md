@@ -1,4 +1,4 @@
-# minimal-calc
+# minimal-calculator
 # 🧮 Minimal Calc
 
 A stylish, fast, and ultra-lightweight dark-themed calculator packaged into a single, fully independent Windows executable (`.exe`).
