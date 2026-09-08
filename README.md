@@ -33,4 +33,4 @@ If you wish to compile the project yourself:
 ## ☕ Support the Project
 If you like this ultra-lightweight calculator and want to help me get a new keyboard, you can support my work here!
 
-[![ko-fi]]https://ko-fi.com/solyxn
+[![ko-fi](https://ko-fi.com)]https://ko-fi.com/solyxn
